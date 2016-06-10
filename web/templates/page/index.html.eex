@@ -1,6 +1,6 @@
 <div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}", name: "Phoenix!" %></h2>
-  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+  <h2><%= gettext "Velkommen til %{name}", name: "Alkymist!" %></h2>
+  <p class="lead">En leke og demo side for<br />Phoenix og Elixr.</p>
 </div>
 
 <div class="row marketing">
