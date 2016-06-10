@@ -2,7 +2,7 @@ defmodule Alkymist.UserSocket do
   use Phoenix.Socket
 
   ## Channels
-  # channel "rooms:*", Alkymist.RoomChannel
+  channel "rooms:*", Alkymist.RoomChannel
 
   ## Transports
   transport :websocket, Phoenix.Transports.WebSocket, timeout: 45_000

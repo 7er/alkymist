@@ -3,6 +3,11 @@
   <p class="lead">En leke og demo side for<br />Phoenix og Elixr.</p>
 </div>
 
+<div id="messages"></div>
+<input id="chat-input" type="text"></input>
+<div id="typing"></div>
+
+
 <div class="row marketing">
   <div class="col-lg-6">
     <h4>Resources</h4>
